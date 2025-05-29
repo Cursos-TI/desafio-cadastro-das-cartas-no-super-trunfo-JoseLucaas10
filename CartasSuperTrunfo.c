@@ -5,7 +5,7 @@ int main() {
     char estado, estado2;
     char codigoCarta[4], codigoCarta2[4];
     char cidade[50], cidade2[50]; // aumentei para 50 pra nomes maiores
-    unsigned long int populacao, populacao2; // agora unsigned long int
+    unsigned long int populacao, populacao2; 
     int pontosTuristicos, pontosTuristicos2;
     float areaCidade, areaCidade2;
     float pib, pib2;
